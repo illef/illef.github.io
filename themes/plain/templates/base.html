@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="Description" content="Syntax, guides and links related to Rust development.">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2">
+
+	<title>{% block title %} {% endblock title %}</title>
+    <!-- Icon -->
+    <link rel="icon" type="image/png" href="/favicon.jpg">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/font-fira.css" />
+	<link rel="stylesheet" href="/plain.css" />
+</head>
+
+<body>
+	<header>
+		<div class="font-italic pad-5 bg-white" >
+			<a href="/" class="color-black">W</a>
+		</div>
+		{% block header %} {% endblock header %}
+	</header>	
+
+	<article>
+    {% if page.toc %}
+        <ul>
+        {% for h1 in page.toc %}
+            <li>
+                <a href="{{h1.permalink | safe}}">{{ h1.title }}</a>
+                {% if h1.children %}
+                    <ul>
+                        {% for h2 in h1.children %}
+                            <li>
+                                <a href="{{h2.permalink | safe}}">{{ h2.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+		{% block content %} {% endblock content %}
+	</article>
+</body>
+
+</html>

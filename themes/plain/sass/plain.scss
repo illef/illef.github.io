@@ -1,0 +1,59 @@
+@import url("https://cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css");
+
+body {
+  font-family: "Iropke Batang", Cambria, "Times New Roman", Times, serif;
+  font-size: 20px;
+  max-width: 100ch;
+  line-height: 1.8; 
+}
+
+h1 {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+h2 {
+  text-decoration-line: underline;
+}
+
+article,
+header {
+  margin-left: 2rem;
+}
+
+code {
+  color: red;
+}
+
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-color: #cccccc;
+
+  td {
+    padding: 3px 20px;
+    border: 1px solid #ccc;
+  }
+
+  thead {
+    th {
+      padding: 6px 13px;
+      font-weight: bold;
+      border: 1px solid #ccc;
+    }
+  }
+}
+
+blockquote {
+  padding: 10px 20px;
+  margin: 20px 0;
+  border-left: 5px solid #ccc;
+  background-color: #f9f9f9;
+  p {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #555;
+    font-style: italic;
+  }
+}
