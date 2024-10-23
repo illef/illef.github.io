@@ -1,11 +1,52 @@
 {% extends "base.html" %}
 {% block title %} {{ page.title }} {% endblock title %}
 {% block header %} 
+
+{% if page.extra and page.extra.isbn %}
+    {% set isbn = page.extra.isbn %}
+    {% set book_info = load_data(path="book-info/" ~ isbn ~ ".xml", format="xml") %}
+{% endif %}
+
+{% block page_meta %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.permalink | safe }}" />
+
+    {% if book_info %}
+        <meta property="og:image" content="{{ book_info.object.item.cover | safe }}" />
+    {% endif %}
+
+{% endblock page_meta %}
+
+
 <div class="pad-5 color-cyan">
-	<h1>
-	{{ page.title }} 
-	</h1>
+    <div class="page-header">
+        <div class="title">{{ page.title }}</div>
+        <div class="date"> {{ page.date }} </div>
+    </div>
 </div>
+
+{% if book_info %}
+<div class="book-info">
+    <div class="book-item">
+        <a href="{{ book_info.object.item.link }}">
+            <img src="{{ book_info.object.item.cover }}" alt="Book Image">
+        </a>
+    </div>
+    <div class="book-details">
+        <ul>
+            <li>
+                <a href="{{ book_info.object.item.link }}">
+                    {{ book_info.object.item.title }}
+                </a>
+            </li>
+            <li> {{ book_info.object.item.author }}</li>
+            <li> {{ book_info.object.item.publisher }}</li>
+        </ul>
+    </div>
+</div>
+{% endif %}
+
 
 {% endblock header %}
 {% block content %}

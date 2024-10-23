@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 불가사의한 소년 1</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5797539</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 06:14:32 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788925248707</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="5797539">
+			    <title>불가사의한 소년 1</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5797539&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>야마시타 카즈미 지음</author>
+				<pubDate>Fri, 14 Jan 2005 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/579/75/coveroff/8925248700_1.jpg'/&gt; 불가사의한 소년 1 - 야마시타 카즈미 지음 &lt;br/&gt; </description>
+				<creator>aladin</creator> 
+				<isbn>8925248700</isbn>
+				<isbn13>9788925248707</isbn13>
+				<priceSales>4050</priceSales>
+				<priceStandard>4500</priceStandard>
+				<stockStatus>품절</stockStatus>
+				<mileage>220</mileage>
+				<cover>https://image.aladin.co.kr/product/579/75/coversum/8925248700_1.jpg</cover>
+				<categoryId>4134</categoryId>
+				<categoryName>국내도서&gt;만화&gt;본격장르만화&gt;판타지&gt;드라마틱 판타지</categoryName>
+				<publisher>대원씨아이(만화)</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle></originalTitle>
+				        <itemPage>200</itemPage>		            
+		                <toc><![CDATA[<p>1 반사쿠와 유지로
+2 에밀리와 샤롯데
+3 여우눈의 토라키치</p><p>프란츠 카우츠만 박사
+마흔살 여회사원 무라야마 카오리
+루키 이스카리오테
+남편 코헤이와 아내 루리코
+쇼와 타케시와 요시유키와</p>]]></toc>
+		                
+                        <authors><author authorType="author" authorid="68825" desc="지은이">야마시타 카즈미</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

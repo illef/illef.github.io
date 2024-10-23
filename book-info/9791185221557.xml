@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 내 문장이 그렇게 이상한가요?</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=78718611</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 31 Oct 2024 11:31:33 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9791185221557</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="78718611">
+			    <title>내 문장이 그렇게 이상한가요?</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=78718611&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>김정선 지음</author>
+				<pubDate>Tue, 01 Mar 2016 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/7871/86/coveroff/e472439380_1.jpg'/&gt; 내 문장이 그렇게 이상한가요? - 김정선 지음 &lt;br/&gt; </description>
+				<creator>aladin</creator> 
+				<isbn>E472439380</isbn>
+				<isbn13>9791185221557</isbn13>
+				<priceSales>8400</priceSales>
+				<priceStandard>8400</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>420</mileage>
+				<cover>https://image.aladin.co.kr/product/7871/86/coversum/e472439380_1.jpg</cover>
+				<categoryId>57992</categoryId>
+				<categoryName>eBook&gt;인문학&gt;책읽기/글쓰기&gt;글쓰기</categoryName>
+				<publisher>유유</publisher>
+				<customerReviewRank>8</customerReviewRank>
+                
+				    <ebookinfo>
+				        <paperBookList>
+				          <paperBook itemId="74920327" isbn="K752434117" priceSales="12600" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920327"/>
+				        </paperBookList>
+				        <fileFormatList>
+				            <fileFormat fileType="EPUB" fileSize="34498296"/>
+				        </fileFormatList>
+				    </ebookinfo>
+				    				
+			</item>
+			
+</object>

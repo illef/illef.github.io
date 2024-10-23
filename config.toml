@@ -1,7 +1,10 @@
 # The URL the site will be built for
 base_url = "https://illef.github.io"
 
+title = "illef blog"
 theme="plain"
+
+generate_feeds = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,9 +14,14 @@ compile_sass = true
 [markdown]
 highlight_code = true
 highlight_theme = "ayu-light"
+bottom_footnotes = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+
 [extra]
 # Put all your custom variables here
+
+[link_checker]
+internal_level = "error"

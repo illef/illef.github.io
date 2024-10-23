@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 아베 일족 (무선)</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14371670</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 04:05:23 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788954616843</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="14371670">
+			    <title>아베 일족 (무선)</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14371670&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>모리 오가이 지음, 권태민 옮김</author>
+				<pubDate>Thu, 22 Dec 2011 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/1437/16/coveroff/8954616844_1.jpg'/&gt; 아베 일족 (무선) - 모리 오가이 지음, 권태민 옮김 &lt;br/&gt; '문학동네 세계문학전집' 85권. '일본 근대문학의 기원' '일본 문단에 지적 계보를 만든 작가' 모리 오가이의 소설집. 모리 오가이는 평론, 번역, 소설, 시 등 다양한 분야에서 선구적인 역할을 하며 일본 근대문학을 이끈 작가로, 아쿠타가와 류노스케에게 '선생님'으로 불렸으며 나쓰메 소세키, 나가이 가후 등에게 큰 영향을 끼친 일본 문학의 거장이다.</description>
+				<creator>aladin</creator> 
+				<isbn>8954616844</isbn>
+				<isbn13>9788954616843</isbn13>
+				<priceSales>9450</priceSales>
+				<priceStandard>10500</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>520</mileage>
+				<cover>https://image.aladin.co.kr/product/1437/16/coversum/8954616844_1.jpg</cover>
+				<categoryId>50996</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;일본소설&gt;1950년대 이전 일본소설</categoryName>
+				<publisher>문학동네</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>阿部一族</originalTitle>
+				        <itemPage>264</itemPage>		            
+		                <toc><![CDATA[<p>아베 일족        7<BR>
+무희            61<BR>
+기러기          93<BR>
+다카세부네     219<BR>
+<BR>
+해설 | 모리 오가이와 근대적 자아    237<BR>
+모리 오가이 연보      253</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/1437/16/letslook/8954616844_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/1437/16/letslook/8954616844_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/1437/16/letslook/8954616844_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="14306" desc="지은이">모리 오가이</author><author authorType="translator" authorid="2330350" desc="옮긴이">권태민</author></authors>
+                        <ebookList>
+                          <ebook itemId="21137889" isbn="E895461694" priceSales="7300" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21137889" />
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

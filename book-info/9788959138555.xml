@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 우리가 사랑한 소설들</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=50089272</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:37 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788959138555</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="50089272">
+			    <title>우리가 사랑한 소설들 - 빨간책방에서 함께 읽고 나눈 이야기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=50089272&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>이동진.김중혁 지음</author>
+				<pubDate>Fri, 19 Dec 2014 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/5008/92/coveroff/895913855x_1.jpg'/&gt; 우리가 사랑한 소설들 - 이동진.김중혁 지음 &lt;br/&gt; 회당 다운로드 수 평균 15만 회를 기록하고 있는 팟캐스트 방송 [이동진의 빨간책방]. 그동안 [빨간책방]에서 메인 테마 도서로 다루었던 80여 권의 책 중 청취자들에게 가장 큰 호응을 얻었던 외국 소설 7편을 엄선하여 방송 내용을 다시 글로 옮겨 정리하고 보충한 책이다.</description>
+				<creator>aladin</creator> 
+				<isbn>895913855X</isbn>
+				<isbn13>9788959138555</isbn13>
+				<priceSales>8910</priceSales>
+				<priceStandard>9900</priceStandard>
+				<stockStatus>품절</stockStatus>
+				<mileage>490</mileage>
+				<cover>https://image.aladin.co.kr/product/5008/92/coversum/895913855x_1.jpg</cover>
+				<categoryId>52906</categoryId>
+				<categoryName>국내도서&gt;에세이&gt;명사에세이&gt;기타 명사에세이</categoryName>
+				<publisher>예담</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle>빨간책방에서 함께 읽고 나눈 이야기</subTitle>
+		                <originalTitle></originalTitle>
+				        <itemPage>332</itemPage>		            
+		                <toc><![CDATA[<p>숭고하고 윤리적인 속죄―《속죄》, 이언 매큐언<BR>
+우연과 운명, 권태와 허무, 그 가볍지 않은 무게―《참을 수 없는 존재의 가벼움》, 밀란 쿤데라<BR>
+마지막, 당신이 만나게 되는 진실은―《예감은 틀리지 않는다》, 줄리언 반스<BR>
+소년의 어떤 꿈에 대하여―《호밀밭의 파수꾼》, 제롬 데이비드 샐린저<BR>
+신기한 이야기에 숨겨진 카오스와 코스모스―《파이 이야기》, 얀 마텔<BR>
+이렇게 강하고 자유로운 남자들―《그리스인 조르바》, 니코스 카잔차키스<BR>
+그가 또다른 세계에서 만난 것은―《색채가 없는 다자키 쓰쿠루와 그가 순례를 떠난 해》, 무라카미 하루키</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/5008/92/letslook/895913855X_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/5008/92/letslook/895913855X_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/5008/92/letslook/895913855X_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="164446" desc="지은이">김중혁</author><author authorType="author" authorid="303869" desc="지은이">이동진</author></authors>
+                        <ebookList>
+                          <ebook itemId="53109110" isbn="E895913855" priceSales="6930" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53109110" />
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 소프트웨어 객체의 생애 주기</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=29085503</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788998791063</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="29085503">
+			    <title>소프트웨어 객체의 생애 주기</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=29085503&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>테드 창 지음, 김상훈 옮김</author>
+				<pubDate>Thu, 08 Aug 2013 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/2908/55/coveroff/8998791064_1.jpg'/&gt; 소프트웨어 객체의 생애 주기 - 테드 창 지음, 김상훈 옮김 &lt;br/&gt; 휴고 상, 로커스 상 중편 부문 최우수상 수상작. 작가 테드 창은 SF 속 인공지능 로봇과 현실 속 기술의 발전 양상에 괴리를 느꼈다. 이 소설은 그가 느낀 괴리감을 솔직하게 이야기하고, 현실에서 실현 가능한 인공지능의 다른 형태를 제시한 작품이다.</description>
+				<creator>aladin</creator> 
+				<isbn>8998791064</isbn>
+				<isbn13>9788998791063</isbn13>
+				<priceSales>7920</priceSales>
+				<priceStandard>8800</priceStandard>
+				<stockStatus>절판</stockStatus>
+				<mileage>440</mileage>
+				<cover>https://image.aladin.co.kr/product/2908/55/coversum/8998791064_1.jpg</cover>
+				<categoryId>89481</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;과학소설(SF)&gt;외국 과학소설</categoryName>
+				<publisher>북스피어</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>The Lifecycle of Software Objects (2010년)</originalTitle>
+				        <itemPage>216</itemPage>		            
+		                <toc><![CDATA[<p>소프트웨어 객체의 생애 주기<BR>
+창작 노트<BR>
+해설</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/2908/55/letslook/8998791064_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/2908/55/letslook/8998791064_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/2908/55/letslook/8998791064_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="198205" desc="지은이">테드 창</author><author authorType="translator" authorid="65225" desc="옮긴이">김상훈</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

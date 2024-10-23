@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 실존주의는 휴머니즘이다</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1704247</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788961471114</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="1704247">
+			    <title>실존주의는 휴머니즘이다</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1704247&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>장 폴 사르트르 지음, 박정태 옮김</author>
+				<pubDate>Wed, 30 Jan 2008 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/170/42/coveroff/8961471112_2.jpg'/&gt; 실존주의는 휴머니즘이다 - 장 폴 사르트르 지음, 박정태 옮김 &lt;br/&gt; 두 번에 걸친 세계대전 이후 고전적 휴머니즘을 주제로 한 반성적 논의가 활발히 전개된 정황 속에서 장 폴 사르트르가 &quot;실존주의는 휴머니즘이다&quot;라는 제목으로 강연을 한 뒤에 그 강연에서 다루어졌던 이야기들을 모아 만든 책.</description>
+				<creator>aladin</creator> 
+				<isbn>8961471112</isbn>
+				<isbn13>9788961471114</isbn13>
+				<priceSales>6750</priceSales>
+				<priceStandard>7500</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>370</mileage>
+				<cover>https://image.aladin.co.kr/product/170/42/coversum/8961471112_2.jpg</cover>
+				<categoryId>51453</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;서양철학&gt;프랑스철학</categoryName>
+				<publisher>이학사</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>L'existentialisme est un humanisme  (1946년)</originalTitle>
+				        <itemPage>144</itemPage>		            
+		                <toc><![CDATA[<p>강연의 상황<BR>
+실존주의는 휴머니즘이다<BR>
+토론<BR>
+<BR>
+이 책을 읽는 데 도움이 될 옮긴이의 실존주의 용어 해설<BR>
+옮기고 나서</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/170/42/letslook/8961471112_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/space.gif</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="37203" desc="지은이">장 폴 사르트르</author><author authorType="translator" authorid="97243" desc="옮긴이">박정태</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

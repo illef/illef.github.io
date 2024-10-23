@@ -1,25 +1,14 @@
 {% extends "base.html" %}
 {% block title %} {{ config.title }} {% endblock title %}
-{% block header %} {{ config.title }} {% endblock header %}
 {% block content %}
-	<h2>Recent Changes</h2>
+    {% set sorted_pages = section.pages | sort(attribute="date") %}
 	<ul>
-		{% for page in section.pages | reverse | slice(end=5)%}
+		{% for page in sorted_pages | reverse  %}
 		<li>
 		  <a href="{{ page.permalink }}">
 			{{ page.title }}
 		  </a>
-		</li>
-		{% endfor %}
-	</ul>
-
-	<h2>Total</h2>
-	<ul>
-		{% for page in section.pages | reverse %}
-		<li>
-		  <a href="{{ page.permalink }}">
-			{{ page.title }}
-		  </a>
+          <small class="date">{{ page.date }}</small>
 		</li>
 		{% endfor %}
 	</ul>

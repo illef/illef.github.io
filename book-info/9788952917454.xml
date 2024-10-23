@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 천사가 사는 방</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299743</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 31 Oct 2024 08:41:52 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788952917454</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="299743">
+			    <title>천사가 사는 방 - 츠다 마사미 단편 시리즈 3</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299743&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>츠다 마사미 지음, 신현숙 옮김</author>
+				<pubDate>Tue, 09 Oct 2001 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/29/97/coveroff/6000037135_1.gif'/&gt; 천사가 사는 방 - 츠다 마사미 지음, 신현숙 옮김 &lt;br/&gt; </description>
+				<creator>aladin</creator> 
+				<isbn>8952917456</isbn>
+				<isbn13>9788952917454</isbn13>
+				<priceSales>2700</priceSales>
+				<priceStandard>3000</priceStandard>
+				<stockStatus>절판</stockStatus>
+				<mileage>150</mileage>
+				<cover>https://image.aladin.co.kr/product/29/97/coversum/6000037135_1.gif</cover>
+				<categoryId>3743</categoryId>
+				<categoryName>국내도서&gt;만화&gt;순정만화&gt;틴에이지 순정</categoryName>
+				<publisher>학산문화사(만화)</publisher>
+				<customerReviewRank>8</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle>츠다 마사미 단편 시리즈 3</subTitle>
+		                <originalTitle></originalTitle>
+				        <itemPage>200</itemPage>		            
+		                <toc><![CDATA[]]></toc>
+		                
+                        <authors><author authorType="author" authorid="68558" desc="지은이">츠다 마사미</author><author authorType="translator" authorid="105412" desc="옮긴이">신현숙</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

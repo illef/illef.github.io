@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 체리 신드롬 7</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3355088</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788925531878</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="3355088">
+			    <title>체리 신드롬 7 - 큐피드의 장난 Ⅱ</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3355088&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>키타자키 타쿠 지음</author>
+				<pubDate>Thu, 26 Feb 2009 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/img/19book_75cover.jpg'/&gt; 체리 신드롬 7 - 키타자키 타쿠 지음 &lt;br/&gt; </description>
+				<creator>aladin</creator> 
+				<isbn>8925531879</isbn>
+				<isbn13>9788925531878</isbn13>
+				<priceSales>3420</priceSales>
+				<priceStandard>3800</priceStandard>
+				<stockStatus>절판</stockStatus>
+				<mileage>190</mileage>
+				<cover>https://image.aladin.co.kr/product/335/50/coversum/8925531879_1.jpg</cover>
+				<categoryId>3742</categoryId>
+				<categoryName>국내도서&gt;만화&gt;순정만화&gt;레이디스 코믹</categoryName>
+				<publisher>북박스(랜덤하우스중앙)</publisher>
+				<customerReviewRank>0</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle>큐피드의 장난 Ⅱ</subTitle>
+		                <originalTitle></originalTitle>
+				        <itemPage>216</itemPage>		            
+		                <toc><![CDATA[<p>9권<BR>
+나구나 / 축하해 / 아가와 씨 덕분이에요<BR>
+그것뿐인가요? / 너를 / 어린애가 아닙니다.<BR>
+당신 생각만큼- / 특별단편 무지개구슬 펀치</p>]]></toc>
+		                
+                        <authors><author authorType="author" authorid="229756" desc="지은이">키타자키 타쿠</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

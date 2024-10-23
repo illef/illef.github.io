@@ -4,18 +4,31 @@
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="Description" content="Syntax, guides and links related to Rust development.">
+    <meta name="naver-site-verification" content="c5d9158f52fa97000a244cb12f15f1e29c893342" />
 
     <!-- Enable responsiveness on mobile devices-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2">
 
+    {% block page_meta %} {% endblock page_meta %}
+
 	<title>{% block title %} {% endblock title %}</title>
     <!-- Icon -->
-    <link rel="icon" type="image/png" href="/favicon.jpg">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="/font-fira.css" />
 	<link rel="stylesheet" href="/plain.css" />
+    <link rel="alternate" type="application/atom+xml" title="RSS" href="/atom.xml" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TSNJZPFWR7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-TSNJZPFWR7');
+    </script>
 </head>
 
 <body>
@@ -23,28 +36,29 @@
 		<div class="font-italic pad-5 bg-white" >
 			<a href="/" class="color-black">W</a>
 		</div>
-		{% block header %} {% endblock header %}
 	</header>	
 
 	<article>
-    {% if page.toc %}
-        <ul>
-        {% for h1 in page.toc %}
-            <li>
-                <a href="{{h1.permalink | safe}}">{{ h1.title }}</a>
-                {% if h1.children %}
-                    <ul>
-                        {% for h2 in h1.children %}
-                            <li>
-                                <a href="{{h2.permalink | safe}}">{{ h2.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </li>
-        {% endfor %}
-        </ul>
-    {% endif %}
+
+	{% block header %} {% endblock header %}
+    <!-- {% if page.toc %} -->
+    <!--     <ul> -->
+    <!--     {% for h1 in page.toc %} -->
+    <!--         <li> -->
+    <!--             <a href="{{h1.permalink | safe}}">{{ h1.title }}</a> -->
+    <!--             {% if h1.children %} -->
+    <!--                 <ul> -->
+    <!--                     {% for h2 in h1.children %} -->
+    <!--                         <li> -->
+    <!--                             <a href="{{h2.permalink | safe}}">{{ h2.title }}</a> -->
+    <!--                         </li> -->
+    <!--                     {% endfor %} -->
+    <!--                 </ul> -->
+    <!--             {% endif %} -->
+    <!--         </li> -->
+    <!--     {% endfor %} -->
+    <!--     </ul> -->
+    <!-- {% endif %} -->
 		{% block content %} {% endblock content %}
 	</article>
 </body>

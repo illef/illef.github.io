@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 추측과 논박 1</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324348</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:37 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788937416064</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="324348">
+			    <title>추측과 논박 1 - 과학적 지식의 성장</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324348&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>칼 포퍼 지음, 이한구 옮김</author>
+				<pubDate>Sun, 23 Dec 2001 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/32/43/coveroff/8937416069_2.jpg'/&gt; 추측과 논박 1 - 칼 포퍼 지음, 이한구 옮김 &lt;br/&gt; 은 포퍼가 자신의 사상의 근간이 되었던 주요 논문과 강연문 21편을 묶은 책이다. 이 글들은 과학 철학, 고대 철학, 칸트 철학과 자연과학, 변증법 등 다양한 주제를 다루고 있음에도 불구하고 일관되게 포퍼 사상의 핵심을 보여주고 있다.</description>
+				<creator>aladin</creator> 
+				<isbn>8937416069</isbn>
+				<isbn13>9788937416064</isbn13>
+				<priceSales>22500</priceSales>
+				<priceStandard>25000</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>1250</mileage>
+				<cover>https://image.aladin.co.kr/product/32/43/coversum/8937416069_2.jpg</cover>
+				<categoryId>51483</categoryId>
+				<categoryName>국내도서&gt;인문학&gt;서양철학&gt;현대철학&gt;칼 포퍼</categoryName>
+				<publisher>민음사</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle>과학적 지식의 성장</subTitle>
+		                <originalTitle>Conjectures and refutations (1963년)</originalTitle>
+				        <itemPage>528</itemPage>		            
+		                <toc><![CDATA[<p><Font Size="2"><B>추측과 논박 1</B></Font><BR>
+<BR>
+서문<BR>
+제2판 서문<BR>
+제3판 서문<BR>
+감사의 말<BR>
+<BR>
+서론-지식과 무지의 근원에 관해서<BR>
+<BR>
+<Font Size="2"><B>추측</B></Font><BR>
+1 과학 : 추측과 논박<BR>
+2 철학적 문제들의 본성과 그 과학적 뿌리<BR>
+3 인간의 지식에 관한 세 가지 견해 <BR>
+4 전통에 관한 합리적 이론을 향하여<BR>
+5 소크라테스 이전 철학자들로 돌아가라<BR>
+6 마흐와 아인슈타인의 선구자 버클리에 관한 소고<BR>
+7 칸트의 비판과 우주론<BR>
+8 과학과 형이상학의 지위에 관하여<BR>
+9 논리와 산술의 계산법은 실재에 적용 가능한가<BR>
+10 진리, 합리성, 그리고 과학적 지식의 성장<BR>
+<BR>
+인용문 출전<BR>
+이름 찾아보기<BR>
+사항 찾아보기<BR>
+<BR>
+<Font Size="2"><B>추측과 논박 2</B></Font><BR>
+<BR>
+서문<BR>
+제2판 서문<BR>
+제3판 서문<BR>
+감사의 말<BR>
+<BR>
+<Font Size="2"><B>논박</B></Font><BR>
+11 과학과 형이상학의 구획<BR>
+12 언어와 심신 문제<BR>
+13 심신 문제에 관하여<BR>
+14 일상 언어의 자기 지시와 의미<BR>
+15 변증법이란 무엇인가<BR>
+16 사회과학의 예측과 예언<BR>
+17 여론과 자유주의자의 원칙<BR>
+18 유토피아와 폭력<BR>
+19 우리 시대의 역사:한 낙관주의자의 견해<BR>
+20 휴머니즘과 아성<BR>
+<BR>
+부록<BR>
+약간의 전문적인 주석들<BR>
+<BR>
+옮긴이 해제<BR>
+인용문 출전<BR>
+이름 찾아보기<BR>
+사항 찾아보기</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/space.gif</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/space.gif</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="46222" desc="지은이">칼 포퍼</author><author authorType="translator" authorid="35595" desc="옮긴이">이한구</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>
