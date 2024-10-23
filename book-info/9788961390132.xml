@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 파인만의 과학이란 무엇인가?</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2312697</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788961390132</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="2312697">
+			    <title>파인만의 과학이란 무엇인가?</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2312697&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>리처드 파인만 지음, 정무광.정재승 옮김</author>
+				<pubDate>Mon, 30 Jun 2008 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/231/26/coveroff/8961390139_1.jpg'/&gt; 파인만의 과학이란 무엇인가? - 리처드 파인만 지음, 정무광.정재승 옮김 &lt;br/&gt; 전설적인 물리학자 리처드 파인만이 1963년 워싱턴 대학교에서 강연한 내용을 담았다. 유머와 기지가 넘치는 강사로도 유명하던 파인만은 세 차례의 강연을 통해, ‘과학이란 무엇인지’ 그리고 ‘과학적인 사고방식이 사회의 다른 분야에 어떤 영향을 미치는지’에 관하여 설명한다.</description>
+				<creator>aladin</creator> 
+				<isbn>8961390139</isbn>
+				<isbn13>9788961390132</isbn13>
+				<priceSales>9000</priceSales>
+				<priceStandard>10000</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>500</mileage>
+				<cover>https://image.aladin.co.kr/product/231/26/coversum/8961390139_1.jpg</cover>
+				<categoryId>51002</categoryId>
+				<categoryName>국내도서&gt;과학&gt;기초과학/교양과학</categoryName>
+				<publisher>승산</publisher>
+				<customerReviewRank>8</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>The Meaning of It All: Thoughts of a Citizen-Scientist</originalTitle>
+				        <itemPage>187</itemPage>		            
+		                <toc><![CDATA[<p>헌사<BR>
+<BR>
+01 과학의 불확실성에 대하여<BR>
+02 가치의 불확실성에 대하여<BR>
+03 비과학적인 시대의 한복판에서<BR>
+<BR>
+역자후기<BR>
+파인만의 소개<BR>
+찾아보기</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/231/26/letslook/8961390139_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/231/26/letslook/8961390139_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/231/26/letslook/8961390139_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="13095" desc="지은이">리처드 파인만</author><author authorType="translator" authorid="819135" desc="옮긴이">정무광</author><author authorType="translator" authorid="2458240" desc="옮긴이">정재승</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

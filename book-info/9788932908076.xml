@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 수난 1</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2029487</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 05:29:20 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788932908076</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="2029487">
+			    <title>수난 1</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2029487&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>니코스 카잔차키스 지음, 이창식 옮김</author>
+				<pubDate>Sat, 29 Mar 2008 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/202/94/coveroff/8932908079_1.jpg'/&gt; 수난 1 - 니코스 카잔차키스 지음, 이창식 옮김 &lt;br/&gt; 예수 사후 오늘날까지 끊임없이 되풀이되고 있는 '그리스도의 수난'이 가진 의미를 형상화한 작품. 그리스의 지배를 받고 있는 터키의 작은 마을을 배경으로 ‘그리스도 수난극’의 예수 역할을 맡게 된 양치기 청년 마놀리우스의 번뇌를 그렸다. 작가는 그를 통해 2천 년 전 죄인들을 위해 피 흘린 예수의 희생이 지닌 의미와 인간의 죄의식을 생생하게 되살려 냈다.</description>
+				<creator>aladin</creator> 
+				<isbn>8932908079</isbn>
+				<isbn13>9788932908076</isbn13>
+				<priceSales>9720</priceSales>
+				<priceStandard>10800</priceStandard>
+				<stockStatus>품절</stockStatus>
+				<mileage>540</mileage>
+				<cover>https://image.aladin.co.kr/product/202/94/coversum/8932908079_1.jpg</cover>
+				<categoryId>51055</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;세계의 소설&gt;기타 국가 소설</categoryName>
+				<publisher>열린책들</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>초판출간 1955년</originalTitle>
+				        <itemPage>317</itemPage>		            
+		                <toc><![CDATA[<p><B>1권</B><BR>
+유다가 필요하다 <BR>
+사람에게 사냥당한 사람 <BR>
+성인과 도둑 <BR>
+양과의 싸움 <BR>
+마귀와 그리스도의 가면 <BR>
+선장의 죽음 <BR>
+하느님은 옹기장이, 흙으로 빚으신다 <BR>
+마을에서의 살인 <BR>
+희생 <BR>
+ <BR>
+<B>2권</B><BR>
+오르막길 <BR>
+불의 전차 <BR>
+사제의 저주 <BR>
+모스크바 사람들 <BR>
+자네가 죽였어, 자네가! <BR>
+최초의 충돌 <BR>
+맨발의 여행 <BR>
+내 몸이… <BR>
+늑대들은 스스로 사냥한다 <BR>
+예수의 성난 얼굴 <BR>
+유혈 참사 <BR>
+헛되군요, 나의 예수님 <BR>
+<BR>
+- 옮긴이의 말 <BR>
+- 니코스 카잔차키스 연보 <BR>
+</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/202/94/letslook/8932908079_fs.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="9619" desc="지은이">니코스 카잔자키스</author><author authorType="translator" authorid="233972" desc="옮긴이">이창식</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>

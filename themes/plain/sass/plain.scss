@@ -2,18 +2,28 @@
 
 body {
   font-family: "Iropke Batang", Cambria, "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-size: 1.1em;
   max-width: 100ch;
+  margin-right: 30px;
+  margin-left: 0px;
   line-height: 1.8; 
 }
 
 h1 {
-  text-decoration-line: underline;
-  text-decoration-style: double;
+  /* text-decoration-line: underline; */
+  /* text-decoration-style: double; */
 }
 
 h2 {
-  text-decoration-line: underline;
+  /* text-decoration-line: underline; */
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
 }
 
 article,
@@ -51,9 +61,61 @@ blockquote {
   border-left: 5px solid #ccc;
   background-color: #f9f9f9;
   p {
-    font-size: 20px;
     line-height: 1.6;
     color: #555;
-    font-style: italic;
   }
 }
+
+
+.page-header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ccc; // gray border
+}
+
+.page-header .title {
+    margin-top: 0.5em;
+    font-size: 2em;
+}
+
+.page-header .date {
+    margin-top: -0.5em;
+    font-size: 1em;
+    color: #666;
+}
+
+
+.date {
+  font-size: 0.7em;
+  color: gray;
+  margin-left: 5px;
+}
+
+.book-info {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    font-size: 0.8em;
+}
+
+.book-item img {
+    max-width: 100px; /* Adjust as needed */
+    display: block;
+}
+
+.book-details {
+    margin-left: 10px;
+    flex-grow: 1;
+    padding-top: 0px;
+}
+
+.book-details ul {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Optional: Remove padding if needed */
+}
+
+.book-details li {
+    margin-bottom: 5px; /* Space between list items */
+}
+

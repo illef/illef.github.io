@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 그리고 신은 얘기나 좀
+  하자고 말했다</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=56384442</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788932963723</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="56384442">
+			    <title>그리고 신은 얘기나 좀
+  하자고 말했다</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=56384442&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>한스 라트 지음, 박종대 옮김</author>
+				<pubDate>Thu, 09 Apr 2015 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/5638/44/coveroff/e893291701_1.jpg'/&gt; 그리고 신은 얘기나 좀
+  하자고 말했다 - 한스 라트 지음, 박종대 옮김 &lt;br/&gt; </description>
+				<creator>aladin</creator> 
+				<isbn>E893291701</isbn>
+				<isbn13>9788932963723</isbn13>
+				<priceSales>9600</priceSales>
+				<priceStandard>9600</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>480</mileage>
+				<cover>https://image.aladin.co.kr/product/5638/44/coversum/e893291701_1.jpg</cover>
+				<categoryId>56543</categoryId>
+				<categoryName>eBook&gt;소설/시/희곡&gt;독일소설</categoryName>
+				<publisher>열린책들</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <ebookinfo>
+				        <paperBookList>
+				          <paperBook itemId="55642561" isbn="8932917019" priceSales="14220" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=55642561"/>
+				        </paperBookList>
+				        <fileFormatList>
+				            <fileFormat fileType="EPUB" fileSize="15138157"/>
+				        </fileFormatList>
+				    </ebookinfo>
+				    				
+			</item>
+			
+</object>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 제3인류 1</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=32241318</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788932962795</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+	<item itemId="32241318">
+		<title>제3인류 1</title>
+		<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=32241318&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+		<author>베르나르 베르베르 지음, 이세욱 옮김</author>
+		<pubDate>Tue, 22 Oct 2013 15:00:00 GMT</pubDate> 
+		<description>&lt;img src='https://image.aladin.co.kr/product/3224/13/coveroff/e893291637_7.jpg'/&gt; 제3인류 1 - 베르나르 베르베르 지음, 이세욱 옮김 &lt;br/&gt; </description>
+		<creator>aladin</creator> 
+		<isbn>E893291637</isbn>
+		<isbn13>9788932962795</isbn13>
+		<priceSales>10000</priceSales>
+		<priceStandard>10000</priceStandard>
+		<stockStatus></stockStatus>
+		<mileage>500</mileage>
+		<cover>https://image.aladin.co.kr/product/3224/13/coversum/e893291637_7.jpg</cover>
+		<categoryId>56542</categoryId>
+		<categoryName>eBook&gt;소설/시/희곡&gt;프랑스소설</categoryName>
+		<publisher>열린책들</publisher>
+		<customerReviewRank>9</customerReviewRank>
+		<ebookinfo>
+			<paperBookList>
+			  <paperBook itemId="32136853" isbn="8932916373" priceSales="12420" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=32136853"/>
+			</paperBookList>
+			<fileFormatList>
+				<fileFormat fileType="EPUB" fileSize="11921369"/>
+			</fileFormatList>
+		</ebookinfo>
+	</item>
+</object>

@@ -16,6 +16,16 @@
     <!-- CSS -->
     <link rel="stylesheet" href="/font-fira.css" />
 	<link rel="stylesheet" href="/plain.css" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TSNJZPFWR7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-TSNJZPFWR7');
+    </script>
 </head>
 
 <body>
@@ -27,24 +37,24 @@
 	</header>	
 
 	<article>
-    {% if page.toc %}
-        <ul>
-        {% for h1 in page.toc %}
-            <li>
-                <a href="{{h1.permalink | safe}}">{{ h1.title }}</a>
-                {% if h1.children %}
-                    <ul>
-                        {% for h2 in h1.children %}
-                            <li>
-                                <a href="{{h2.permalink | safe}}">{{ h2.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </li>
-        {% endfor %}
-        </ul>
-    {% endif %}
+    <!-- {% if page.toc %} -->
+    <!--     <ul> -->
+    <!--     {% for h1 in page.toc %} -->
+    <!--         <li> -->
+    <!--             <a href="{{h1.permalink | safe}}">{{ h1.title }}</a> -->
+    <!--             {% if h1.children %} -->
+    <!--                 <ul> -->
+    <!--                     {% for h2 in h1.children %} -->
+    <!--                         <li> -->
+    <!--                             <a href="{{h2.permalink | safe}}">{{ h2.title }}</a> -->
+    <!--                         </li> -->
+    <!--                     {% endfor %} -->
+    <!--                 </ul> -->
+    <!--             {% endif %} -->
+    <!--         </li> -->
+    <!--     {% endfor %} -->
+    <!--     </ul> -->
+    <!-- {% endif %} -->
 		{% block content %} {% endblock content %}
 	</article>
 </body>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 약속된 장소에서</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298361499</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 02:33:38 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788954687249</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="298361499">
+			    <title>약속된 장소에서 - 언더그라운드2</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298361499&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>무라카미 하루키 지음, 이영미 옮김</author>
+				<pubDate>Tue, 19 Jul 2022 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/29836/14/coveroff/e502530902_1.jpg'/&gt; 약속된 장소에서 - 무라카미 하루키 지음, 이영미 옮김 &lt;br/&gt; </description>
+				<creator>aladin</creator> 
+				<isbn>E502530902</isbn>
+				<isbn13>9788954687249</isbn13>
+				<priceSales>10500</priceSales>
+				<priceStandard>10500</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>520</mileage>
+				<cover>https://image.aladin.co.kr/product/29836/14/coversum/e502530902_1.jpg</cover>
+				<categoryId>56619</categoryId>
+				<categoryName>eBook&gt;에세이&gt;외국에세이</categoryName>
+				<publisher>문학동네</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <ebookinfo>
+				        <paperBookList>
+				          <paperBook itemId="8051128" isbn="8954613373" priceSales="13500" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8051128"/>
+				        </paperBookList>
+				        <fileFormatList>
+				            <fileFormat fileType="EPUB" fileSize="43698076"/>
+				        </fileFormatList>
+				    </ebookinfo>
+				    				
+			</item>
+			
+</object>

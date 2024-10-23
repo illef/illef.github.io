@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 개를 데리고 다니는 부인</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5873396</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Thu, 24 Oct 2024 09:00:28 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788932909202</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="5873396">
+			    <title>개를 데리고 다니는 부인</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5873396&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>안톤 파블로비치 체홉 지음, 오종우 옮김</author>
+				<pubDate>Sun, 29 Nov 2009 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/587/33/coveroff/8932909202_1.jpg'/&gt; 개를 데리고 다니는 부인 - 안톤 파블로비치 체홉 지음, 오종우 옮김 &lt;br/&gt; 현대 단편 문학의 초석을 놓은 러시아의 작가 안똔 빠블로비치 체호프의 소설집. 체호프는 일상이라는 껍질에 가려진 인간의 본질-참모습을 웃음과 눈물, 연민과 비판을 통해 드러낸다. 책 뒷부분에는 체호프 연보와 옮긴이의 해설 논문을 실어 독자의 이해를 돕는다. 표제작 '개를 데리고 다니는 부인' 외 16편의 단편이 실려 있다.</description>
+				<creator>aladin</creator> 
+				<isbn>8932909202</isbn>
+				<isbn13>9788932909202</isbn13>
+				<priceSales>12420</priceSales>
+				<priceStandard>13800</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>690</mileage>
+				<cover>https://image.aladin.co.kr/product/587/33/coversum/8932909202_1.jpg</cover>
+				<categoryId>52650</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;러시아소설</categoryName>
+				<publisher>열린책들</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>Дама с собачкой (1899년)</originalTitle>
+				        <itemPage>289</itemPage>		            
+		                <toc><![CDATA[<p>1. 굽은 거울 <BR>
+2. 어느 관리의 죽음 <BR>
+3. 마스크 <BR>
+4. 실패 <BR>
+5. 애수 <BR>
+6. 농담 <BR>
+7. 하찮은 것 <BR>
+8. 쉿! <BR>
+9. 어느 여인의 이야기 <BR>
+10. 자고 싶다 <BR>
+11. 6호 병동 <BR>
+12. 검은 수사 <BR>
+13. 대학생 <BR>
+14. 문학 교사 <BR>
+15. 농부들 <BR>
+16. 새로운 별장 <BR>
+17. 개를 데리고 다니는 부인 <BR>
+<BR>
+해설 ㅣ 오종우 <BR>
+체호프 연보 <BR>
+</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/587/33/letslook/8932909202_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/587/33/letslook/8932909202_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/587/33/letslook/8932909202_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="25726" desc="지은이">안톤 파블로비치 체호프</author><author authorType="translator" authorid="77295" desc="옮긴이">오종우</author></authors>
+                        <ebookList>
+                          <ebook itemId="282425062" isbn="E822539581" priceSales="10620" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282425062" />  <ebook itemId="42445419" isbn="E272436026" priceSales="11100" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=42445419" />
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>
