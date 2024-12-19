@@ -6,6 +6,7 @@ theme="plain"
 author="illef"
 
 generate_feeds = true
+feed_filenames = ["feed.xml"]
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
