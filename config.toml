@@ -3,6 +3,7 @@ base_url = "https://illef.github.io"
 
 title = "illef blog"
 theme="plain"
+author="illef"
 
 generate_feeds = true
 
