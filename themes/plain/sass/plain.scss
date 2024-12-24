@@ -1,8 +1,13 @@
-@import url("https://cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css");
+@font-face {
+    font-family: 'GowunBatang-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
-  font-family: "Iropke Batang", Cambria, "Times New Roman", Times, serif;
-  font-size: 1.0em;
+  font-family: "GowunBatang-Regular", Cambria, "Times New Roman", Times, serif;
+  font-size: 1.1em;
   max-width: 100ch;
   margin-right: 30px;
   margin-left: 0px;
