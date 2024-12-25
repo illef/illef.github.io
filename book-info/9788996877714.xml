@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 왕의 목을 친 남자</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17606403</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Wed, 25 Dec 2024 04:46:35 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788996877714</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="17606403">
+			    <title>왕의 목을 친 남자 - 프랑스혁명의 두 얼굴, 사형집행인의 고백</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17606403&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>아다치 마사카쓰 지음, 최재혁 옮김</author>
+				<pubDate>Fri, 29 Jun 2012 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/1760/64/coveroff/8996877719_1.jpg'/&gt; 왕의 목을 친 남자 - 아다치 마사카쓰 지음, 최재혁 옮김 &lt;br/&gt; 150년간 빛을 보지 못한 사형집행인의 실제 기록과 발자크의 저작을 토대로 새롭게 재구성한 역사드라마. 왕족이나 귀족, 정치인들을 중심으로 프랑스혁명의 배경과 추이를 평면적으로 기술해온 기존의 역사서와는 달리, 파리의 공식 사형집행관을 중심으로 지금까지와는 전혀 다른 관점에서 혁명사를 재구성한 논픽션이다.</description>
+				<creator>aladin</creator> 
+				<isbn>8996877719</isbn>
+				<isbn13>9788996877714</isbn13>
+				<priceSales>12600</priceSales>
+				<priceStandard>14000</priceStandard>
+				<stockStatus>품절</stockStatus>
+				<mileage>700</mileage>
+				<cover>https://image.aladin.co.kr/product/1760/64/coversum/8996877719_1.jpg</cover>
+				<categoryId>167</categoryId>
+				<categoryName>국내도서&gt;역사&gt;유럽사&gt;프랑스사</categoryName>
+				<publisher>한권의책</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle>프랑스혁명의 두 얼굴, 사형집행인의 고백</subTitle>
+		                <originalTitle></originalTitle>
+				        <itemPage>308</itemPage>		            
+		                <toc><![CDATA[<p>프롤로그<BR>
+1장 저주받은 가문<BR>
+2장 일렁이는 혁명의 기운<BR>
+3장 국가의 면도날, 기요틴의 탄생<BR>
+4장 무자비한 신들<BR>
+5장 국왕을 혁명의 제물로<BR>
+6장 그날은 오지 않았다 <BR>
+맺음말<BR>
+참고문헌<BR>
+옮긴이의 글</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/1760/64/letslook/8996877719_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/1760/64/letslook/8996877719_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/1760/64/letslook/8996877719_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="1042723" desc="지은이">아다치 마사카쓰</author><author authorType="translator" authorid="202946" desc="옮긴이">최재혁</author></authors>
+                        <ebookList>
+                        
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>
