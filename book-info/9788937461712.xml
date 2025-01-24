@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 모든 것이 산산이 부서지다</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1829130</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Fri, 24 Jan 2025 04:54:55 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9788937461712</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="1829130">
+			    <title>모든 것이 산산이 부서지다</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1829130&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>치누아 아체베 지음, 조규형 옮김</author>
+				<pubDate>Thu, 21 Feb 2008 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/182/91/coveroff/8937461714_2.jpg'/&gt; 모든 것이 산산이 부서지다 - 치누아 아체베 지음, 조규형 옮김 &lt;br/&gt; 19세기 말 아프리카의 한 부족 마을이 폭력적인 서구 세력의 유입으로 서서히 몰락하는 과정을 묘사한 소설. 폭력적인 서구 세력에 맞서 부족의 문화와 풍습을 지키려는 한 남자가 주인공인 이 작품은, 1958년 작가 치누아 아체바의 나이 스물여덟에 발표되었다. '민음사 세계문학전집' 최초의 아프리카 소설인 점도 눈길을 끈다.</description>
+				<creator>aladin</creator> 
+				<isbn>8937461714</isbn>
+				<isbn13>9788937461712</isbn13>
+				<priceSales>9900</priceSales>
+				<priceStandard>11000</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>550</mileage>
+				<cover>https://image.aladin.co.kr/product/182/91/coversum/8937461714_2.jpg</cover>
+				<categoryId>51044</categoryId>
+				<categoryName>국내도서&gt;소설/시/희곡&gt;세계의 소설&gt;아프리카소설</categoryName>
+				<publisher>민음사</publisher>
+				<customerReviewRank>8</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle></subTitle>
+		                <originalTitle>Things Fall Apart (1958년)</originalTitle>
+				        <itemPage>280</itemPage>		            
+		                <toc><![CDATA[<p>1부<BR>
+2부<BR>
+3부<BR>
+<BR>
+이보용어<BR>
+작품해설<BR>
+작가연보</p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/182/91/letslook/8937461714_fs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/182/91/letslook/6000797686_bs.jpg</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/182/91/letslook/8937461714_t1s.jpg</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="46032" desc="지은이">치누아 아체베</author><author authorType="translator" authorid="165780" desc="옮긴이">조규형</author></authors>
+                        <ebookList>
+                          <ebook itemId="274817712" isbn="E422538327" priceSales="7700" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274817712" />
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>
