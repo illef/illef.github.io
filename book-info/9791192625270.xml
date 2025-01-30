@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 상품정보 - 우리가 운명이라고 불렀던 것들</title>
+    <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311324268</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Mon, 27 Jan 2025 02:21:32 GMT</pubDate> 
+	<totalResults>1</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>isbn13=9791192625270</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName></searchCategoryName>
+    
+			<item itemId="311324268">
+			    <title>우리가 운명이라고 불렀던 것들 - 그 모든 우연이 모여 오늘이 탄생했다.</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311324268&amp;copyPaper=1&amp;ttbkey=ttbillef2035005&amp;start=api</link>
+				<author>슈테판 클라인 지음, 유영미 옮김</author>
+				<pubDate>Tue, 21 Feb 2023 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/31132/42/coveroff/k162831942_1.jpg'/&gt; 우리가 운명이라고 불렀던 것들 - 슈테판 클라인 지음, 유영미 옮김 &lt;br/&gt; 태곳적부터 인류는 생존을 위해 본능적으로 원인을 알 수 없는 불확실한 상황을 거부하며 어떻게든 세계의 규칙을 찾고자 했다. 그러나 여전히 예측할 수 없는 변수와 함께 흘러가고 있다. 우리는 그럼에도 운명을 믿을 수 있을까, 아니면 이처럼 불확실하고 우연한 세계에 몸을 맡겨야 할까?</description>
+				<creator>aladin</creator> 
+				<isbn>K162831942</isbn>
+				<isbn13>9791192625270</isbn13>
+				<priceSales>16920</priceSales>
+				<priceStandard>18800</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>940</mileage>
+				<cover>https://image.aladin.co.kr/product/31132/42/coversum/k162831942_1.jpg</cover>
+				<categoryId>51002</categoryId>
+				<categoryName>국내도서&gt;과학&gt;기초과학/교양과학</categoryName>
+				<publisher>포레스트북스</publisher>
+				<customerReviewRank>9</customerReviewRank>
+                
+				    <bookinfo>
+				        <subTitle>그 모든 우연이 모여 오늘이 탄생했다.</subTitle>
+		                <originalTitle>Alles zufall</originalTitle>
+				        <itemPage>352</itemPage>		            
+		                <toc><![CDATA[<p>들어가는 말. 운명처럼 이 책을 펼친 당신에게 <BR>
+<BR>
+<B>Part 1. 운명이라는 착각</B><BR>
+Chapter 1. 믿을 수 없는 운명의 장난들 <BR>
+Chapter 2. 누군가는 반드시 로또에 당첨된다 <BR>
+Chapter 3. 신은 주사위 놀이를 하지 않는다고? <BR>
+Chapter 4. 그 모든 예언은 불가능하다 <BR>
+Chapter 5. 우연을 운명이라 믿는 이유 <BR>
+<BR>
+<B>Part 2. 우연이 만든 세계</B><BR>
+Chapter 6. 인류의 모든 것은 우연에 빚지고 있다 <BR>
+Chapter 7. 우월함을 이기는 우연한 승리 <BR>
+Chapter 8. 우연이 만들어낸 뜻밖의 행운 <BR>
+Chapter 9. 육아와 사랑 그리고 우연의 관계 <BR>
+<BR>
+<B>Part 3. 우연이 두려운 사람들</B><BR>
+Chapter 10. 모든 일에 이유가 있을 거란 착각 <BR>
+Chapter 11. 뇌는 우연을 거부한다 <BR>
+Chapter 12. 일등보다 꼴등이 마음 편한 이유 <BR>
+Chapter 13. 완벽히 안전한 곳은 감옥뿐이다 <BR>
+<BR>
+<B>Part 4. 불확실한 세상을 살아가는 법</B><BR>
+Chapter 14. 우연한 사고로부터 나를 지키는 법 <BR>
+Chapter 15. 불확실한 세상에서 좋은 선택을 하는 법 <BR>
+Chapter 16. 우연을 기회로 만드는 법 </p>]]></toc>
+		                <letslookimg>https://image.aladin.co.kr/product/space.gif</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/space.gif</letslookimg>
+                                <letslookimg>https://image.aladin.co.kr/product/space.gif</letslookimg>
+                                
+                        <authors><author authorType="author" authorid="229750" desc="지은이">슈테판 클라인</author><author authorType="translator" authorid="30698" desc="옮긴이">유영미</author></authors>
+                        <ebookList>
+                          <ebook itemId="311986158" isbn="E432531086" priceSales="13000" link="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311986158" />
+                        </ebookList>
+				    </bookinfo>
+				    				
+			</item>
+			
+</object>
