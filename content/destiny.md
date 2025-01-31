@@ -127,10 +127,3 @@ extra:
 ## *
 
 깜냥이가 노트북에 머리를 박치기 하며 지나간다. 고 녀석 참. 우연이라 부르니 충분하면서도 부족하구나.
-
----
-
-글 안에 넣고 싶었으나 마땅치 않아 삭제한 인용을 소개한다. 
-
-- "저는 선구자가 아닙니다. 저는 5개년 계획이 없습니다. ... 제가 하고 싶은 건 제가 빠지기 전에 바로 앞에 있는 움푹 파인 곳을 고치는 것입니다." - 리누스 토발즈, https://youtu.be/o8NPllzkFhE?si=5f2Y6cROqqZlmGC_&t=1006
-- [Democracy Needs the Loser](https://www.newyorker.com/news/the-weekend-essay/democracy-needs-the-loser) 에 의하면 민주주의가 성립하려면 미래를 알 수 없어야 한다. 불확실성이 제거된 민주주의는 불가능하다.
