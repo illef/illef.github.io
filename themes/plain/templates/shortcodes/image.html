@@ -1,0 +1,9 @@
+{% set image = resize_image(path=path, width=width, op="fit_width" ) %}
+<div class="article-image">
+    <img src="{{ image.url }}" style="display:block;"/>
+</div>
+<div class="article-image-desc">
+    {{ desc }}
+</div>
+
+

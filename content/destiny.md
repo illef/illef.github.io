@@ -25,6 +25,8 @@ extra:
 
 1년 전 사건을 우연이란 단어로 담기엔 섭섭하다. 다른 단어는 없을까? '인연' 은 어떨까? '운명'은 어떨까? 교회 안수집사인 어머니는 '계획하심'이란 단어를 추천하리라.
 
+{{ image(path="cat.jpg", desc="귀여운 깜냥", width=300, op="fit_width") }}
+
 ## ❀
 
 > 머피의 법칙은 나쁜 일만을 의미하는 것이 아니야. 일어날 일은 반드시 일어난다는 거지 - 『Interstellar』 Paramount Pictures, Warner Bros., Legendary Entertainment

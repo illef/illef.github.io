@@ -125,6 +125,18 @@ blockquote {
     display: block;
 }
 
+.article-image {
+  display: flex;
+  justify-content: center; // 수평 중앙 정렬
+}
+
+.article-image-desc {
+  display: flex;
+  justify-content: center;
+  color: #555;
+  font-size: 0.95em;
+}
+
 .book-details {
     margin-left: 10px;
     flex-grow: 1;
