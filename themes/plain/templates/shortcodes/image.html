@@ -1,9 +1,12 @@
-{% set image = resize_image(path=path, width=width, op="fit_width" ) %}
+{% set image = resize_image(path=path, width=width, height=width, op=op) %}
 <div class="article-image">
     <img src="{{ image.url }}" style="display:block;"/>
 </div>
+
+{% if desc %}
 <div class="article-image-desc">
     {{ desc }}
 </div>
+{% endif %}
 
 
