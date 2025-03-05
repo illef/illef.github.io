@@ -5,8 +5,16 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'GowunDodum-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+AC00-D7A3,U+0020-002F,U+003A-0040,U+005B-0060,U+007B-007E
+}
+
 body {
-  font-family: "GowunBatang-Regular", Cambria, "Times New Roman", Times, serif;
+  font-family: "GowunDodum-Regular", Cambria, "Times New Roman", Times, serif;
   font-size: 1.1em;
   line-height: 1.8; 
 }
@@ -21,6 +29,10 @@ h2 {
   font-size: 1.1em;
   margin-top: 3em;
   /* text-decoration-line: underline; */
+}
+
+.center_h2 {
+  text-align: center;
 }
 
 a:visited {
@@ -50,6 +62,11 @@ code {
   color: red;
 }
 
+footer {
+  margin-top: 100px;
+  border-top: 1px solid #ccc; // gray border
+}
+
 
 table {
   margin: 0 auto;
@@ -72,10 +89,10 @@ table {
 
 blockquote {
   /* font-style: italic; */
-  padding: 2px 10px 2px 25px;
-  margin: 10px 0;
+  /* margin: 10px 0; */
   /* border-left: 1px solid black; */
   /* background-color: #f9f9f9; */
+  margin: 15px;
   color: #555;
   font-size: 0.95em;
   p {
