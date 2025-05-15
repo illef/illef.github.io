@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://illef.github.io"
+base_url = "https://illef.netlify.app"
 
 title = "illef blog"
 theme="plain"
