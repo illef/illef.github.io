@@ -13,8 +13,10 @@
     unicode-range: U+AC00-D7A3,U+0020-002F,U+003A-0040,U+005B-0060,U+007B-007E
 }
 
+@import url('//fastly.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
+
 body {
-  font-family: "GowunDodum-Regular", Cambria, "Times New Roman", Times, serif;
+  font-family: "GowunDodum-Regular", "Iropke Batang", "Times New Roman", Times, serif;
   font-size: 1.1em;
   line-height: 1.8; 
 }
@@ -31,9 +33,6 @@ h2 {
   /* text-decoration-line: underline; */
 }
 
-.center_h2 {
-  text-align: center;
-}
 
 a:visited {
   text-decoration: none;
@@ -51,6 +50,17 @@ article {
   max-width: 90ch;
   margin: 0 auto;
   padding: 20px
+}
+
+article h2 {
+  margin-top: 6em;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+
+.center_h2 {
+  text-align: center;
 }
 
 .comments {
