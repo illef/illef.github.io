@@ -111,6 +111,38 @@ blockquote {
   }
 }
 
+/* Tufte-inspired blockquote */
+.tufte-blockquote {
+  width: 85%;
+  // margin: 2.5em 0 2.5em auto;
+  margin: 2.5em auto;
+  padding: 0;
+  font-size: 0.95em;
+  font-style: normal;
+  line-height: 1.7;
+
+  p {
+    margin: 0;
+  }
+
+  footer {
+    margin-top: 0.8em;
+    font-size: 0.9em;
+    font-style: normal;
+    text-align: right;
+  }
+
+  cite {
+    font-style: italic;
+  }
+}
+
+@media (max-width: 780px) {
+  .tufte-blockquote {
+    width: 100%;
+  }
+}
+
 
 .page-header {
     display: flex;
@@ -179,3 +211,45 @@ blockquote {
     margin-bottom: 5px; /* Space between list items */
 }
 
+/* Inline notes (always toggle, no side gutter) */
+article { counter-reset: note-counter; }
+
+input.margin-toggle { display: none; }
+
+label.note-number {
+  counter-increment: note-counter;
+  font-size: 0.82em;
+  vertical-align: super;
+  line-height: 1;
+  cursor: pointer;
+  color: #a00;
+  position: relative;
+  display: inline-block;
+  padding: 0 0.01em 0 0;
+  margin-right: -0.5em; /* pull next character closer */
+  top: -0.22em;
+  left: -0.18em;
+}
+
+label.note-number::after {
+  content: counter(note-counter);
+  font-size: 0.72em;
+  position: relative;
+  top: -0.15em;
+}
+
+.note {
+  display: none;
+  padding: 0.9em 1.1em;
+  margin: 1em auto;
+  font-size: 0.95em;
+  line-height: 1.7;
+
+  p {
+    margin: 0;
+  }
+}
+
+.margin-toggle:checked + .note {
+  display: block;
+}

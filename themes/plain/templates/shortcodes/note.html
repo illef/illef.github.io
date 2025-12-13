@@ -1,0 +1,10 @@
+{# Usage: {% note(id="optional-id") %}Note text{% end %}.
+   If id is omitted, a slug is derived from the page slug + note text. #}
+{% import "macros.html" as macros %}
+{% set _body = body | trim %}
+{% set page_slug = page.slug | default(value="page") %}
+{% set snippet = _body | striptags | truncate(length=18) | slugify %}
+{% set fallback = "note-" ~ page_slug ~ "-" ~ snippet %}
+{% set note_id = id | default(value=fallback) %}
+
+{{ macros::note(unique_id=note_id, note_body=_body) }}

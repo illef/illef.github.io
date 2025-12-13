@@ -1,0 +1,21 @@
+{# Tufte-style blockquote shortcode
+   Usage:
+   {% blockquote(cite="Name", url="https://...") %}
+   Quote text here
+   {% end %}
+#}
+{% set quote = body | trim | markdown(inline=true) %}
+<blockquote class="tufte-blockquote">
+  <p>{{ quote | safe }}</p>
+  {% if cite %}
+  <footer>
+    {% if url %}
+      <a href="{{ url }}" rel="noopener noreferrer">
+        <cite>{{ cite }}</cite>
+      </a>
+    {% else %}
+      <cite>{{ cite }}</cite>
+    {% endif %}
+  </footer>
+  {% endif %}
+</blockquote>

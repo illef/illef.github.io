@@ -1,0 +1,6 @@
+{# Shared macros for notes #}
+{%- macro note(unique_id, note_body) -%}
+<label class="margin-toggle note-number" for="{{ unique_id }}"></label>
+<input id="{{ unique_id }}" class="margin-toggle" type="checkbox" />
+<span class="note">{{ note_body | markdown(inline=true) | safe }}</span>
+{%- endmacro note -%}
