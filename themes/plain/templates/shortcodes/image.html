@@ -1,3 +1,4 @@
+{% component image(path, width, op, desc="") %}
 {% set image = resize_image(path=path, width=width, height=width, op=op) %}
 <div class="article-image">
     <img src="{{ image.url }}" style="display:block;"/>
@@ -8,5 +9,4 @@
     {{ desc }}
 </div>
 {% endif %}
-
-
+{% endcomponent image %}
