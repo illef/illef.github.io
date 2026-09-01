@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://illef.github.io/sitemap.xml
